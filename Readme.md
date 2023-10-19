@@ -25,6 +25,12 @@ Before running the code, ensure you have the following:
 
 You can customize the virus parameters in the `COVID19_PARAMS` dictionary at the beginning of the script. Adjust the values to simulate different viruses. You can change parameters such as the basic reproduction number (r0), incubation period, recovery periods, and fatality rate.
 
+## Demo
+
+Sped up for viewing convenience
+
+https://github.com/justAcoderguy/VirusSimulation/assets/52568587/9991466d-a3e7-4807-81b9-ea607ac5cb52
+
 ## Function Explanations
 
 ### `class Virus`
