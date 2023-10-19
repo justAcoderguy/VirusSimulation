@@ -29,7 +29,7 @@ You can customize the virus parameters in the `COVID19_PARAMS` dictionary at the
 
 Sped up for viewing convenience
 
-https://github.com/justAcoderguy/VirusSimulation/assets/52568587/9991466d-a3e7-4807-81b9-ea607ac5cb52
+https://github.com/justAcoderguy/VirusSimulation/assets/52568587/386ca948-4479-4543-a81b-bda10390caa7
 
 ## Function Explanations
 
