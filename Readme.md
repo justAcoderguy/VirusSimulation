@@ -31,6 +31,15 @@ Sped up for viewing convenience
 
 https://github.com/justAcoderguy/VirusSimulation/assets/52568587/386ca948-4479-4543-a81b-bda10390caa7
 
+## Running It Locally
+
+1. Install Pre-requisites mentioned above
+2. Run the command below
+
+```bash
+python virus.py
+```
+
 ## Function Explanations
 
 ### `class Virus`
